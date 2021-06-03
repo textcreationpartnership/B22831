@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithful and impartial account of the behaviour of a party of the Essex free-holders, at their late election of Parliament-men (at Chelmsford) for that county occasioned by a most false and scandalous pamphlet, intituled The Essex excellency : in a letter to a friend.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22831</idno><idno type="EEBO-CITATION">12029830</idno>
+  <idno type="VID">199475</idno>
+  <idno type="EEBO-PROQUEST">2240939054</idno>
+  
+            <idno type="STC">Wing F266</idno>
+            <idno type="OCLC">12029830</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 562:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithful and impartial account of the behaviour of a party of the Essex free-holders, at their late election of Parliament-men (at Chelmsford) for that county occasioned by a most false and scandalous pamphlet, intituled The Essex excellency : in a letter to a friend.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.K. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Essex excellency.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199475:1"/>
+            <p> A Faithful and Impartial ACCOUNT OF THE BEHAVIOUR OF A PARTY OF THE Essex Free-Holders, AT THEIR LATE ELECTION OF PARLIAMENT-MEN (At <hi>Chelmsford)</hi> for that County.</p>
+            <p>Occasioned by a most false and scandalous Pamphlet, Intituled <hi>THE</hi> ESSEX <hi>EXCELLENCY.</hi>
+            </p>
+            <p>In a LETTER to a FRIEND.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. K.</hi> at the <hi>Bishops-Head</hi> in St. <hi>Paul</hi>'s Church-yard, 1679.</p>
+            <pb facs="tcp:199475:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:199475:2"/>
+            <head>A LETTER TO A FRIEND, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE last Night I received the Narrative, of the late Election at <hi>Chelmsford,</hi> you so kindly sent me; and since your desires are so pressing, I cannot but comply with them; in first giving my Opinion of that Paper, and next, in making you a true and faithful Relation of what I, and others of your Acquaintance, were Eye and Ear Witnesses of upon the spot. To speak truth, I was more offended at reading the Paper, than at all the Passages I observed at the Election; considering that a great difference should be allowed be<g ref="char:EOLhyphen"/>twixt what men say and do when their Passions are disturbed, and their Spirits raised by men skilled in moving the Multitude, and what they write in cool blood, with deliberation, and (as they pretend) for the Glory of God and the Publick Good. I am very confident, should <hi>other</hi> Counties be perswaded (as the Pen-man there exhorts) to follow the Example of the Free-holders of <hi>this,</hi> it would be of infinitely mischievous conse<g ref="char:EOLhyphen"/>quence, both to his Majesty's Government, and the Protestant Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>And what a Reproach and Scandal is it to see Christians and Prote<g ref="char:EOLhyphen"/>stants admired and applauded for saying, upon this occasion, that, <hi>They had rather trust God with their Corn, than the Devil with chusing their Parliament men:</hi> Makeing the Duke, Knights, Gentlemen and Clergy of this County, (of all which there was a great and most solemn Appea<g ref="char:EOLhyphen"/>rance) so many Agents for the Devil. Whose only Crime was, That they appeared for two Gentlemen, that were never suspected to be other than hearty Protestants, and are known to be of sober and moderate, as well as Loyal Principles; and one of them thought worthy, the last year, by these men themselves, to be their Representative in Parliament. Can any thing in the World be more uncivil, uncharitable, and inhumane than this?</p>
+            <p>I hope the Gentleman himself, for whose sake these vile words were uttered and applauded, is of another Spirit, and that when he comes to his place in Parliament, he'll make it his care to stop such wicked Mouths and Pens, which, in a short time, may otherwise bury <hi>his</hi> Honour, as they have endeavour'd to do his betters.</p>
+            <pb n="4" facs="tcp:199475:3"/>
+            <p> I wish I were able to confute our Author in his accusing former Electi<g ref="char:EOLhyphen"/>ons of being managed too much by Drinking and Revelling; but what can tend to the reproach of our Country like this, that this <hi>last</hi> was begun and carryed on (as you shall see anon) by most barbarous and most outragious Revilings? Whereas our Author is pleased to say, that, <hi>It is a thousand times more honourable to be called</hi> Fanaticks, (by those, he means, of the Duke of <hi>Albemarle</hi>'s Party) <hi>than good</hi> Christians, he speaks <hi>him<g ref="char:EOLhyphen"/>self</hi> in the mean time to be a very special Christian, and a man of mar<g ref="char:EOLhyphen"/>vellous Charity towards those who are not of his <hi>own</hi> Party, unless he really thinks <hi>Fanatick</hi> to be a more Honourable Title than <hi>Good Christian.</hi> But that <hi>good Christians</hi> and <hi>Fanaticks</hi> are a two very different sort of people, no man can doubt, that shall take a measure of the <hi>latter</hi> by the Spirit and temper of this man, and the behaviour of not a few of them at this Election.</p>
+            <p>But what hath our poor Clergy done? What Wrongs and Oppressions, or Wicked Practices, have they, above all other men, been guilty of? that such Reflections should be past upon them in that Paper, as might speak them the vilest of all Mortals, and not fit to live. Sir, I will as<g ref="char:EOLhyphen"/>sert nothing but the truth, I know very many of those Divines which were present at the Election, whom I really judge to be Men of as upright Conversations, and Consciences as void of Offence towards God and man, as any whatsoever of the different Parties; Men truly diligent and painful in their places, that study all Methods of gaining upon their Flocks, in spight of all manner of Vexatious, Discouragements, and that would teach this person better than to bely or rail on any (much less Di<g ref="char:EOLhyphen"/>vines) for God's and his Countries sake.</p>
+            <p>This Testimony, I dare undertake, all honest and sober people, in their own Parishes, will give them; and that they shall defie the worst of their Enemies to do any thing like proving the contrary. I know them to be true men, true to the King and Church, most firm to the Protestant Profession and Interest, Men that will venture as deep in the defence of both as any men in the whole Kingdom besides, and whose Knowledge and Abilities are answerable to their Zeal: And if these things be their Guilt, I assure you they promise themselves more comfort in their Suffer<g ref="char:EOLhyphen"/>ings, than their fiercest Adversaries can have pleasure in venting their spight and rage against them.</p>
+            <p>But what if some one, or more, among two hundred (who are men compos'd of Flesh and Blood as others, and subject to like Temptations with others) should have been too weak to withstand Temptations, doth not our Christianity oblige us to pity and hide, and not, like cursed <hi>Chams,</hi> to expose and sport our selves with our Fathers or Brethrens Nakedness? A poor and pitiful boast! while men, perhaps of greater Guilt, shall insult over their Fellows, if not their Betters, because they have less cunning to disguise it to the World.</p>
+            <p>If some of the Clergy were overtaken, (as our Narrator most spight<g ref="char:EOLhyphen"/>fully suggests) why doth he not name any of them, or give some hints whereby they may be guessed at, which is manifest he would most gladly have done, had it lain in his power: In the name of God let the faulty bear their own shame, and not a whole Order be reviled, threatned, and exposed to the Rabble of mad Zealots, for the sake of a very few.</p>
+            <pb n="5" facs="tcp:199475:3"/>
+            <p> I should not take notice of the passage relating to the publick Notary, but to do some right to <hi>Esquire Wroth,</hi> whom the Print most rudely terms <hi>A wrathful Fellow.</hi> The Notary was severely reproved, in my hearing, by this Justice, for saying, That none (he thought) but Priests gave their Voices for Sir <hi>Thomas Middleton:</hi> Whereupon the Justice called for the Bayliff to carry him away, but upon his refusing to leave his Papers behind him, there was no more done: As for <hi>Blows</hi> I saw none, except his being pulled by the Cravat could be called striking.</p>
+            <p>Sir, You know the Title of <hi>Priest</hi> was heretofore the Glory of Princes; nor is our Blessed Saviour ashamed of it now in his Glory; and therefore 'tis a most impious and profane thing to give that Title to Clergy-men in Contempt, and to use it as a name of Reproach. It will be excused, I know, by saying, That those who use it as such, mean <hi>Popish</hi> Priests, but do they not know that so to term Protestant Ministers, and such as with their Souls abhor <hi>Popery,</hi> is wickedly to revile and calumniate, and infi<g ref="char:EOLhyphen"/>nitely unbecoming Professors of Christianity?</p>
+            <p>Now this so publick dirty Reflection upon Ministers of the Church of <hi>England</hi> (who are well known to be <hi>the</hi> Champions for the Reformed Religion, whom, above all men, the <hi>Papists</hi> most hate and fear) might well provoke any one to be angry, who bears them a Reverence.</p>
+            <p>At the same time, and upon the same occasion, I heard the Esquire pro<g ref="char:EOLhyphen"/>test his sincere and hearty wishes for a Free Election, but he said, this was not the way to it, for persons intrusted to express so much partiality and prejudice. And this Notary is belyed, if this were the only Expres<g ref="char:EOLhyphen"/>sion of his partiality, but I will chuse to be silent, where I am not in Cir<g ref="char:EOLhyphen"/>cumstances (as at present I am not) to make good proof.</p>
+            <p>As for Mr. <hi>Mildmay</hi>'s being taken by the Nose by one, who was by His Majesty and not by himself (as the Narrator suggests) made a Knight, I will not endeavour to justifie it, (if it were so) but withal 'tis fit the Story should be made publick, as to that part also which reflects on Mr. <hi>Mildmay,</hi> namely, That the Knight was provoked by being given the Lye in open Court.</p>
+            <p>But I wonder at nothing more, than how a Gentleman of that Spirit and Perswasion, that our Narrator is manifestly of, should so forget the year <hi>Forty one,</hi> as so to fall foul at the first dash upon Long Parliaments, as <hi>being the great mischief and ruine of the Free-born</hi> English <hi>mens Liber<g ref="char:EOLhyphen"/>ty, even to the utter overthrow of almost all Property and Priviledges, as well as Religion:</hi> As if he thought the first Invasion of the peoples Liberties, and Properties and <hi>Religion</hi> too, did in truth begin at that self-perpetu<g ref="char:EOLhyphen"/>ating Parliament, and that these Mischiefs were continued to these di<g ref="char:EOLhyphen"/>stressed Kingdoms, by that other Long Parliament, after his Majesty's hap<g ref="char:EOLhyphen"/>py Restauration.</p>
+            <p>I come now, Sir, to give you a true and faithful Relation of what I, and others of your Acquaintance, saw and heard at that Ele<g ref="char:EOLhyphen"/>ction.</p>
+            <p>Before the <hi>Duke of Albemarle</hi> rode a <hi>Trumpeter</hi> in very rich Attire, after whom followed four or six Pages on foot, in the same Livery, then came the Duke himself in very plain Habit, without any such thing as Sword by his side, or Pistols before him, having only a slender Cane which hung by a Chain to his Wrist. This I observe, to shew he came
+<pb n="6" facs="tcp:199475:4"/> like one resolved before-hand not to <hi>fight</hi> nor Quarrel. On his left hand rode Sir <hi>Thomas Middleton,</hi> and after him most of the Knights and Gen<g ref="char:EOLhyphen"/>tlemen throughout the County; together with above two hundred (as is acknowledged by the Narrator) of the Clergy. And indeed it was the most pleasant Conjunction, and most solemn Appearance of Nobility, Gentry and Clergy, that ever I beheld.</p>
+            <p>When the Duke came near the Town he flourished his Hat, and cryed, SILENCE, which accordingly was sent through the whole Body, of above (as I was told by such as I thought could guess best) two thousand Horse.</p>
+            <p>As we rode into the Town, we were saluted with most barbarous Out<g ref="char:EOLhyphen"/>cries and shoutings from every Quarter: They cryed <hi>a Mildmay, a Mild<g ref="char:EOLhyphen"/>may, no Dukes, no Crosses,</hi> (which related, I suppose, to the Star the Duke wore on his Arm or Breast) <hi>no Semstress</hi>'s <hi>Son,</hi> to his very Face, <hi>no Courtier, no Pensioner, no Black-Coat,</hi> and all the while the Duke's Party rode by in silence.</p>
+            <p>Then I saw the Clergy abused by such Incivilities and Affronts as I hope are not to be parallel'd, and the tenth part of which I am not able to give you account of. Among others, <hi>these</hi> were some of the Civil Titles and Christian Language they bestowed upon them, <hi>viz. Dumb Dogs, Jesuitical Dogs, Dark Lanthorns, Baal's Priests, Damned Rogues, Jacks and Villains, the Black Guard, the black Regiment of Hell, the Devil sent them, and to the De<g ref="char:EOLhyphen"/>vil they would go.</hi> And one of them uttered this piece of profane folly, <hi>I have heard of three persons and one God, but here are an hundred Parsons and never a God.</hi>
+            </p>
+            <p>And for the space of many days after, they boasted how they had used them of the <hi>Long Robe.</hi> One gloried in having thrown Dirt in a Parsons Face; another, that he tore their Gowns; another, that he knocked a Parson off his Horse; another, that he gave a Parson a good punch, with his Knee, in his Belly; adding, that he thought with himself that he should not come there for nothing: This was done in the Croud at Polling. And one Divine told me that he had like to have lost his life among them. An Eminent Cler<g ref="char:EOLhyphen"/>gy-man that lives out of the County, being at <hi>Chelmsford</hi> at that time, and observing how rudely his Brethren were treated, procured a Coat to disguise himself in when he rode out of Town, but for all that (as he said) he could not escape their Flouts and Jeers.</p>
+            <p>Nor did they stick to boast in open Markets, That they dressed the Rogues (meaning the Clergy) so at <hi>Chelmsford,</hi> as they were never dres<g ref="char:EOLhyphen"/>sed in their lives.</p>
+            <p>I cannot but believe that some, even of <hi>that</hi> Party blushed and were heartily grieved to see such doings: One of them told a very worthy per<g ref="char:EOLhyphen"/>son, of your particular acquaintance, that he never heard or saw more rude doings than that side he was on was guilty of, and instanced in several of the particulars.</p>
+            <p>But all this (thanks be to God) the Clergy bore with an incomparable patience, not in the least reviling again, but encouraged one another to meekness, and not to suffer themselves to be overcome of evil. This occasioned some passages in a Letter from a very Religious and Excellent per<g ref="char:EOLhyphen"/>son, that is no Clergy-man, which I think worth the transcribing. <hi>I find that the Spirit and Temper of the Church of</hi> England <hi>best corresponds with</hi>
+               <pb n="7" facs="tcp:199475:4"/>
+               <hi>the ancient and best Christians, who not only bore patiently the malice of the Tongue, but Torture and death. It joys my heart to find a Party in this Kingdom, who repine not at their hard Fate, but compassionate a bewildred Multitude, who know not what they do, but are led by some secret Machine to fight against their own Securities. Oh how ill-favoured a sight is it, to see imperious ignorant Guides smile and thank God for their Disciples Cou<g ref="char:EOLhyphen"/>rage? Are these sure Pilots to the</hi> New Jerusalem, <hi>where all is Love and Obedience? We may easily perceive the effect that talking so contemptuously of Morality hath upon the Separatists.</hi>
+            </p>
+            <p>As for the <hi>Duke,</hi> I must be so just to his Grace as to declare, that he be<g ref="char:EOLhyphen"/>haved himself with such perfect composure in his Countenance, which argued a like composure in his Mind, as I never saw under such high indig<g ref="char:EOLhyphen"/>nities in my life, in a great person.</p>
+            <p>And in all that appearance, I profess I neither saw Noble-man, Gentle<g ref="char:EOLhyphen"/>man, or Clergy-man in the least disordered by drinking; nor did I hear the least Oath from any of their Mouths, so far were they at that time from being in the number of the <hi>Damme</hi>'s our Author speaks of.</p>
+            <p>I say, all the time I was there, I saw no one person of either Party that was drunk, and much less any Clergy-man. I heard indeed since of <hi>two,</hi> on whom this Report was fastened with the most probability of proving true, but, upon my strictest enquiry; I am able to prove it was a Slander at that time upon both.</p>
+            <p>To be short, Sir, had you been there, to have heard the Language, to have seen the Carriage and the Looks of those of that Party, (I speak of the Multitude) you might expect as much Civility from <hi>Turks</hi> and <hi>Barba<g ref="char:EOLhyphen"/>rians,</hi> and hope to find (if times serve them) as much Mercy from a <hi>Po<g ref="char:EOLhyphen"/>pish Inquisition,</hi> as from this sort of Zealots, as much as they now cry out against Persecution, and cry up Toleration.</p>
+            <p>Upon this occasion I cannot forbear to set down what King <hi>James</hi> saith to his Son, in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>p.</hi> 41, 42. concerning this kind of Preten<g ref="char:EOLhyphen"/>ders to Purity in <hi>Scotland.</hi> Saith he, <hi>They are the very Pests in the Church and Common-weale, whom no deserts can oblige, neither Oaths or Promises bind; breathing nothing but Sedition and Calumnies, aspiring without mea<g ref="char:EOLhyphen"/>sure, railing without Reason, and making their own Imagination (without any warrant of the Word) the Square of their Conscience. I protest, before the great God, (and since I am here upon my Testament, it is no place for me to lye) that you shall never find with any High-land or Border Thieves, great<g ref="char:EOLhyphen"/>er Ingratitude, and more Lyes, and vile Perjuries, than with these</hi> Fanatick <hi>Spirits.</hi> (They are the King's own words.) <hi>And suffer not</hi> (as he there goes on) <hi>the Principles of them to brook your Land, if you like to sit at rest; except you would keep them for trying your patience, as</hi> Socrates did an evil Wife.</p>
+            <p>Sir, I have now, no doubt, tyred your patience with this long Scrib<g ref="char:EOLhyphen"/>ble, I draw therefore to a close: Did I at all delight in Recriminations, I would style a Pamphlet, by way of Reply, <hi>Essex</hi>'s <hi>Insolency,</hi> for <hi>Es<g ref="char:EOLhyphen"/>sex</hi>'s <hi>Excellency;</hi> and the <hi>Base Brutish,</hi> for the <hi>Brave British Behaviour,</hi> &amp;c. But I rather chuse, after a better Example, to say, <hi>Good Lord forgive them, for they know not what they do.</hi>
+            </p>
+            <pb n="8" facs="tcp:199475:5"/>
+            <p> Sir, It grieves me that I am constrained thus to employ my Pen, now we are all of us in such danger of a Common Enemy; but the heady Sepa<g ref="char:EOLhyphen"/>ratists will not consider it, and will still write and act, as if they had no sense of the least danger. Witness one <hi>Gulielmus Jenkinus</hi> his late Clamorous <hi>Celeusma,</hi> which may be eminently serviceable to the <hi>Romanists;</hi> but as for its <hi>Author,</hi> it hath and will more expose him for a strangely weak and imprudent (not to say proud and ill-spirited) man, than his <hi>Duo putidi Li<g ref="char:EOLhyphen"/>teratores,</hi> (as he most scornfully calls two Excellent Scholars) or those sad <hi>Hereticks</hi> his <hi>Novatores,</hi> will ever be able to expose him. Had the poor man no <hi>one</hi> wise Friend to advise him not to publish such Latin, and much less such Matter and Sense?</p>
+            <p>I say, I am grieved at thus employing my Pen at such a time as this, but there is a necessity in the Case, as we would not be run down by the o<g ref="char:EOLhyphen"/>ther Extreme, if God in his Infinite Mercy should put an end to our fears of <hi>Popery.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Aug. 28th.</hi> 1679.</date>
+               </dateline> I am,
+<salute>SIR,</salute>
+               <signed>
+                  <hi>Your Affectionate Servant,</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
